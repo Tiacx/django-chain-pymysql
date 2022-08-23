@@ -8,7 +8,7 @@
 # @since 1.0
 
 from django.conf import settings
-from utils.chain_pymysql import *
+from chain_pymysql import *
 
 
 class imysql(imysql):
